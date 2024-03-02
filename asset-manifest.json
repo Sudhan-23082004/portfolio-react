@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.79853b1a.css",
+    "main.js": "/portfolio-react/static/js/main.9ae3672d.js",
+    "static/media/about.png": "/portfolio-react/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/Weather.png": "/portfolio-react/static/media/Weather.ace3b9b58e79a0ea2f56.png",
+    "static/media/hero.png": "/portfolio-react/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/portfolio-react/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/Astronomy.jpg": "/portfolio-react/static/media/Astronomy.2c6e9f4a51db88b48980.jpg",
+    "static/media/website-blog.jpg": "/portfolio-react/static/media/website-blog.34169abf2d417858685b.jpg",
+    "index.html": "/portfolio-react/index.html",
+    "main.79853b1a.css.map": "/portfolio-react/static/css/main.79853b1a.css.map",
+    "main.9ae3672d.js.map": "/portfolio-react/static/js/main.9ae3672d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79853b1a.css",
+    "static/js/main.9ae3672d.js"
+  ]
+}
